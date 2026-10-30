@@ -1,0 +1,17 @@
+{
+  "name": "灵感·",
+  "short_name": "灵感·",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0915",
+  "theme_color": "#0d0915",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
